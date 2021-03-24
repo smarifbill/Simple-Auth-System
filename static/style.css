@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    color: red;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.form {
+    margin-top: 10px;
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+.createAcc {
+    margin-top: 20px;
+}
+
+.login {
+    margin-top: 20px;
+}
